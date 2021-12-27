@@ -1,0 +1,71 @@
+{
+  "student": [],
+  "attendance": [
+    {
+      "status": "absent",
+      "date": "2021-12-22",
+      "userId": "6",
+      "id": 1
+    },
+    {
+      "status": "",
+      "date": "",
+      "userId": "6",
+      "id": 2
+    },
+    {
+      "status": "absent",
+      "date": "2021-12-16",
+      "userId": "20",
+      "id": 3
+    },
+    {
+      "status": "absent",
+      "date": "2021-12-16",
+      "userId": "20",
+      "id": 4
+    },
+    {
+      "status": "absent",
+      "date": "2021-12-25",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "status": "absent",
+      "date": "2021-12-18",
+      "userId": 5,
+      "id": 6
+    },
+    {
+      "status": "",
+      "date": "2021-12-14",
+      "userId": 18,
+      "id": 7
+    },
+    {
+      "status": "",
+      "date": "2021-12-14",
+      "userId": 18,
+      "id": 8
+    },
+    {
+      "status": "",
+      "date": "2021-12-18",
+      "userId": 18,
+      "id": 9
+    },
+    {
+      "status": "Present",
+      "date": "2021-12-16",
+      "userId": 16,
+      "id": 10
+    },
+    {
+      "status": "absent",
+      "date": "2021-12-10",
+      "userId": 16,
+      "id": 11
+    }
+  ]
+}
